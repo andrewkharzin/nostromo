@@ -1,0 +1,4 @@
+# Update these with your Supabase details from your project settings > API
+# https://app.supabase.com/project/_/settings/api
+NEXT_PUBLIC_SUPABASE_URL=https://ltnyevlfdrwkxjoepexu.supabase.co
+NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx0bnlldmxmZHJ3a3hqb2VwZXh1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQ2NDA1NDEsImV4cCI6MjA4MDIxNjU0MX0.ICGPxj-_gvNsTzuDgosw4Zog93B84ftWSVVKyQzIduU
